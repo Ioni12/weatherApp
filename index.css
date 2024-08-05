@@ -109,16 +109,16 @@ font-size: 2em;
     .dis1 .city{
         position: relative;
         margin: 0;
-        left: 80px;
+        left: 60px;
         margin-top: 5%;
     }
 
     .outer{
         top: -80px;
-        height: 65vh;
+        height: 62vh;
     }
     .inner{
-        height: 63vh;
+        height: 60vh;
         width: 59vw;
     }
 
